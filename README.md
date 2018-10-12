@@ -2,7 +2,7 @@ Airsoft Box
 ===========
 The Airsoft Box is an open-source, Arduino-based airsoft dummy bomb, allowing players to configure and play different game types.
 
-1. Required hardware
+1 - Required hardware
 --------------------
 In order to build an Airsoft Box, based on A you'll need the followings :
 - 1x Arduino MEGA
@@ -13,11 +13,11 @@ In order to build an Airsoft Box, based on A you'll need the followings :
 - 1x 10k potentiometer
 - 1x Enclosure
 
-2. Setting up
+2 - Setting up
 -------------
 Follow the wiring as descibed in the Fritzing file or in the Arduino code.
 Then upload the code to the board with the help of the Arduino IDE.
 
-3. You are done !
+3 - You are done !
 -----------------
 Enjoy your airsoft games !
